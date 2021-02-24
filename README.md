@@ -12,4 +12,5 @@ It's like mining but with less resources
 
 How decrypt seed to private key
 https://www.youtube.com/watch?v=5tDjtDSsluY&feature=youtu.be
-
+To install pip stuff
+pip3 install -r requirements.txt 
