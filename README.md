@@ -48,4 +48,5 @@ atât de multe resurse, astfel încât să le puteți lăsa în fundal în șans
 Este ca mineritul, dar cu mai puține resurse
 =========================================================================================
 How decrypt seed to private key
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5tDjtDSsluY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=5tDjtDSsluY&feature=youtu.be
+
